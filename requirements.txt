@@ -1,0 +1,9 @@
+streamlit
+torch
+transformers
+opencv-python-headless==4.5.3.56
+numpy
+pandas
+pillow
+pytesseract
+pdf2image
